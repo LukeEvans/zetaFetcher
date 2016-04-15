@@ -9,6 +9,7 @@
     "cron": "*",
     "bing.search": "*",
     "util": "*",
-    "mongodb": ">= 0.9.6-7"
+    "underscore": "*",
+    "mongodb-wrapper": "*"
   }
 }
